@@ -8,3 +8,4 @@
 <b>4 Responsive Buttons:</b> Professional button design with hover effects for a polished look.<br>
 <b>5 Score Summary:</b> A final score report displayed at the end of the quiz.<br>
 
+![QuizApp](Screenshot.png)
